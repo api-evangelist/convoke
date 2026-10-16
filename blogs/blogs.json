@@ -2,6 +2,13 @@
   "repo": "convoke",
   "feeds": [
     {
+      "source": "https://www.convoke.bio/blog",
+      "feed_url": "https://www.convoke.bio/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://www.convoke.bio/platform",
       "feed_url": "https://www.convoke.bio/platform",
       "title": "",
@@ -10,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
